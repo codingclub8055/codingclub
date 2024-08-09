@@ -1,0 +1,11 @@
+.section1 {
+    background: url('Brown Wood Minimalist Profile LinkedIn Banner.png') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+}
